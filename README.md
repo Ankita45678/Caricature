@@ -7,7 +7,9 @@ To execute the code,follow the following instructions:
 
 
 2.Run: python test.py path_to_your image
+
 example: python test.py imgs/input/img1.jpg
+
 
 
 3.The output image will store in img/output/ folder as name_of_photo_cartoon.jpg
